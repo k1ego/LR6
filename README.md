@@ -49,6 +49,26 @@
 
 ![image12](https://github.com/k1ego/LR6/blob/branch-for-report/images/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA14.png?raw=true)
 
+**14. Логи команд**
+
+В процессе выполнения лабораторной работы были использованы следующие команды:
+
+```
+git config --global user.name
+git config --global user.email
+git clone
+git pull
+git log
+git checkout
+git merge
+git status
+git add .
+git commit -m ""
+git push origin --delete
+git branch
+git reset
+```
+
 **15. Получить историю операций в форматированном виде (сокращённый
 хэш + дата + имя автора + комментарий). Добавить её в отчёт и сделать
 финальную фиксацию изменений.**
